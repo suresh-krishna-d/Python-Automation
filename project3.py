@@ -6,9 +6,9 @@
 
 import re
 
-string_in = raw_input("Enter the string")
+string_in = input("Enter the string")
 
-char_rem  = raw_input("Enter the character")
+char_rem  = input("Enter the character")
 
 def regex_strip(string_in,char_rem):
 
